@@ -12,6 +12,11 @@
 
     <!-- Error messages-->
     <string name="detail_error_message">Sandwich data not available</string>
+    <string name="sample_sandwich_name">My favorite sandwich</string>
+    <string name="sample_also_known_as">My everyday lunch</string>
+    <string name="sample_description">It is made by all leftovers in the refrigerator.</string>
+    <string name="sample_origin">My fridge</string>
+    <string name="sample_ingredients">All good ingredients</string>
 
     <string-array name="sandwich_names">
         <item>Ham and cheese sandwich</item>
